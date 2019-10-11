@@ -9,3 +9,7 @@ Open [http://localhost:19002](http://localhost:19002) to view Expo page, then sc
 
 The app will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+## Demo
+
+<img src="https://dklotz-projects.s3.eu-central-1.amazonaws.com/to-do-app.gif" width="200" height="400">
